@@ -24,4 +24,4 @@ Após concluir o processo, ele criará uma pasta com o nome do projeto baixado.
 
 Utilizando o Typora, é possível realizar melhores alterações no arquivo como temas, ícones dentre outras funcionalidades. ( Conforme exemplo abaixo, o próprio terminal GitBash já nos instrui a realizar os devidos comandos para dar commit nas alterações.)
 
-![image-20220524225715661](C:\Users\GAMER N&J\AppData\Roaming\Typora\typora-user-images\image-20220524225715661.png)
+![image](https://user-images.githubusercontent.com/22546139/170163467-e7adb814-d476-47e9-9b46-746918f33553.png)
